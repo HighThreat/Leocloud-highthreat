@@ -1,5 +1,5 @@
-## Hi there 👋
-👋 ¡Hola! Soy B. Leonardo Álvarez
+# ***Buenas!***
+ ¡Hola! Soy B. Leonardo Álvarez
 Profile Views
 Status
 Year
