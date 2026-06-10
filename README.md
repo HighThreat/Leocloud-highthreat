@@ -1,5 +1,5 @@
 # ***Buenas!***
- ¡Hola! Soy B. Leonardo Álvarez
+¡Hola! Soy B. Leonardo Álvarez
 Profile Views
 Status
 Year
@@ -7,28 +7,28 @@ Tajamar
 
 Estudiante del Máster en Ingeniería MultiCloud, DevOps y Seguridad en Tajamar (Madrid) durante el año académico 2025/26. Apasionado de las tecnologías cloud y la automatización de infraestructuras, con habilidades en Python y en constante aprendizaje de las plataformas cloud líderes del mercado.
 
-🚀 Sobre Mí
+ Sobre Mí
 Soy un profesional en formación especializado en arquitecturas MultiCloud, con un enfoque particular en DevOps, seguridad y automatización en entornos cloud. Mi objetivo es convertirme en un experto capaz de diseñar, desplegar y gestionar infraestructuras complejas en múltiples plataformas cloud (Azure, AWS y Google Cloud Platform).
 
-🎓 Formación Actual: Máster en Ingeniería MultiCloud, DevOps y Seguridad - Tajamar (2025/26)
+Formación Actual: Máster en Ingeniería MultiCloud, DevOps y Seguridad - Tajamar (2025/26)
 
-🏆 Beca: Programa 100% becado por la Fundación Alfonso Martín Escudero (Becas Turing)
+Beca: Programa 100% becado por la Fundación Alfonso Martín Escudero (Becas Turing)
 
-💻 Lenguaje Principal: Python
+Lenguaje Principal: Python
 
-☁️ Foco Técnico: Microsoft Azure, AWS, Google Cloud Platform
+Foco Técnico: Microsoft Azure, AWS, Google Cloud Platform
 
-🔧 Especialización: DevOps, IaC (Terraform/Ansible), Kubernetes, Seguridad Cloud
+Especialización: DevOps, IaC (Terraform/Ansible), Kubernetes, Seguridad Cloud
 
-📍 Ubicación: Madrid, España
+Ubicación: Madrid, España
 
-🎯 Programa de Formación
+ Programa de Formación
 Máster en Ingeniería MultiCloud, DevOps y Seguridad - Tajamar
 Duración: 946 horas (Sep 2025 - Jun 2026)
 Modalidad: Presencial en Tajamar, Madrid
 Horario: Lunes a viernes, 09:00 - 14:30h
 
-📚 Contenidos del Máster
+ Contenidos del Máster
 Administración de Windows Server 2025: Gestión de infraestructuras on-premises
 
 Microsoft Azure: Administración de infraestructuras cloud + Arquitecturas híbridas
@@ -48,7 +48,7 @@ Contenedorización: Docker y orquestación con Kubernetes
 
 Inteligencia Artificial: IA aplicada a infraestructuras cloud
 
-🛠️ Tecnologías y Herramientas
+ Tecnologías y Herramientas
 Lenguajes de Programación
 Python
 Bash
@@ -72,10 +72,12 @@ Sistemas Operativos
 Linux
 Windows Server
 
-📜 Certificaciones Oficiales en Progreso
-Durante mi formación en el Máster de Tajamar, estoy preparándome para obtener las siguientes certificaciones oficiales (exámenes incluidos en el programa):
+ Certificaciones Oficiales en Progreso
+Durante mi formación en el Máster de Tajamar, obtuve siguientes certificaciones oficiales (Ya obtenidas):
 
 ✅ AZ-104: Microsoft Azure Administrator
+
+✅ AZ-305 Arquitectura
 
 ✅ AZ-500: Microsoft Azure Security Technologies
 
@@ -84,7 +86,8 @@ Durante mi formación en el Máster de Tajamar, estoy preparándome para obtener
 ✅ ACE: Google Cloud Associate Cloud Engineer
 
 ✅ GitHub Actions: GitHub Actions Certification
-💡 Áreas de Especialización
+
+Áreas de Especialización
 Arquitecturas MultiCloud
 Diseño e implementación de soluciones escalables y resilientes que aprovechan las fortalezas de múltiples proveedores cloud (Azure, AWS, GCP), evitando el vendor lock-in.
 
@@ -103,7 +106,9 @@ Protección de identidades, datos y aplicaciones en entornos cloud híbridos, im
 Automatización con Python
 Desarrollo de scripts y herramientas personalizadas para automatizar tareas de administración, monitoreo y gestión de recursos cloud.
 
-🔭 Proyectos Destacados
+
+Proyectos Destacados
+
 ☁️ Infraestructura MultiCloud con Terraform
 Implementación de una infraestructura híbrida automatizada utilizando Terraform para provisionar recursos simultáneamente en Azure, AWS y GCP, con gestión de estado centralizada.
 
@@ -145,7 +150,7 @@ Integración de IA y Machine Learning en infraestructuras cloud
 
 Kubernetes avanzado: service mesh, observability, GitOps
 
-🏢 Sobre Tajamar
+Sobre Tajamar
 Tajamar es un centro de referencia en formación tecnológica ubicado en Madrid, con más de 50 años de experiencia. El Máster en Ingeniería MultiCloud está becado al 100% por la Fundación Alfonso Martín Escudero (Becas Turing), con una inserción laboral superior al 90%.
 
 Ventajas del programa:
@@ -202,17 +207,4 @@ Centro de Formación: Tajamar - FP + Professional Education
 🏆 Becario Turing - Fundación Alfonso Martín Escudero (2025/26)
 
 🎓 Estudiante Máster MultiCloud - Tajamar (2025/26)
-<!--
-**Leocloud-highthreat/Leocloud-highthreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
