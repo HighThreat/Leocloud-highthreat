@@ -1,22 +1,41 @@
-# ***Buenas!***
-¡Hola! Soy B. Leonardo Álvarez
-Profile Views
-Status
-Year
-Tajamar
+# 👋 Hola, soy B. Leonardo Álvarez
 
-Estudiante del Máster en Ingeniería MultiCloud, DevOps y Seguridad en Tajamar (Madrid) durante el año académico 2025/26. Apasionado de las tecnologías cloud y la automatización de infraestructuras, con habilidades en Python y en constante aprendizaje de las plataformas cloud líderes del mercado.
+**Ingeniero Cloud | DevOps | Automatización**
 
- Sobre Mí
-Soy un profesional en formación especializado en arquitecturas MultiCloud, con un enfoque particular en DevOps, seguridad y automatización en entornos cloud. Mi objetivo es convertirme en un experto capaz de diseñar, desplegar y gestionar infraestructuras complejas en múltiples plataformas cloud (Azure, AWS y Google Cloud Platform).
+Soy un profesional especializado en arquitecturas MultiCloud, enfocado en DevOps, seguridad y automatización de infraestructuras. Actualmente cursando el **Máster en Ingeniería MultiCloud, DevOps y Seguridad** en Tajamar (Madrid, 2025/26), becado al 100% por la Fundación Alfonso Martín Escudero (Becas Turing).
 
-Formación Actual: Máster en Ingeniería MultiCloud, DevOps y Seguridad - Tajamar (2025/26)
+Mi objetivo es diseñar, desplegar y gestionar infraestructuras robustas, seguras y escalables en los proveedores líderes del mercado.
 
-Beca: Programa 100% becado por la Fundación Alfonso Martín Escudero (Becas Turing)
+---
 
-Lenguaje Principal: Python
+## 🛠️ Tecnologías y Herramientas
 
-Foco Técnico: Microsoft Azure, AWS, Google Cloud Platform
+- **Cloud Computing**: Microsoft Azure, AWS, Google Cloud Platform (GCP).
+- **Infraestructura como Código (IaC)**: Terraform, HCL.
+- **CI/CD & Automatización**: GitHub Actions, Bash, PowerShell.
+- **Lenguajes**: Python, JavaScript.
+- **Contenedores y Orquestación**: Docker, Kubernetes (AKS).
+
+---
+
+## 🚀 Proyectos Destacados (Portfolio)
+
+A continuación, puedes explorar mis repositorios organizados por área de especialización:
+
+* ☁️ **[leo-terraform](https://github.com/HighThreat/terraform)**: Despliegues completos de infraestructura cloud y gestión de estado mediante Terraform.
+* ⚙️ **[leo-automation](https://github.com/HighThreat/githubactionexam)**: Plataforma integral de CI/CD para entornos Monorepo, gestionando despliegues de Frontend, Backend e Infraestructura en un flujo unificado.
+* 🐍 **[leo-python](https://github.com/HighThreat/Leo_python-LeoFiles-Python)**: Colección de scripts orientados a la resolución de problemas lógicos y automatización de tareas.
+* 📦 **[leo-aks-cicd](https://github.com/HighThreat/agente-y-skills)**: Flujo de trabajo CI/CD completo para empaquetado de contenedores en ACR y despliegue automatizado en Azure Kubernetes Service (AKS).
+
+---
+
+## 🎓 Formación
+* **Máster en Ingeniería MultiCloud, DevOps y Seguridad** - Tajamar (2025/26)
+* **Becas Turing** - Fundación Alfonso Martín Escudero (Seleccionado por excelencia).
+
+## 📫 Contacto
+* [LinkedIn](https://www.linkedin.com/in/b-leonardo-alvarez/) (Sustituir por tu URL)
+* ¡Abierto a oportunidades y retos técnicos en entornos Cloud y DevOps!
 
 Especialización: DevOps, IaC (Terraform/Ansible), Kubernetes, Seguridad Cloud
 
